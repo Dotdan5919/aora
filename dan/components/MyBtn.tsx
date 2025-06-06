@@ -19,7 +19,7 @@ const router = useRouter();
     
             <Text  className='text-black  ' >{name}</Text>
             
-          </TouchableOpacity> //
+          </TouchableOpacity> 
   )
 }
 
