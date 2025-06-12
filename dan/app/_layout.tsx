@@ -20,7 +20,7 @@ import { useColorScheme } from '@/hooks/useColorScheme';
 import { ScreenStack } from 'react-native-screens';
 import Globalprovider from '../context/Globalprovider';
 
-// Prevent the splash screen from auto-hiding before asset loading is complete.
+// Prevent the splash screen from auto-hiding before asset loading is complete.d
 SplashScreen.preventAutoHideAsync();
 
 export default function RootLayout() {
